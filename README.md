@@ -1,2 +1,2 @@
-# 229352-StatisticalLearning
-Lab assignments for 229352 Statistical Learning for Data Science 2
+# 229351-StatisticalLearning
+Lab assignments for 229351 Statistical Learning for Data Science 1
